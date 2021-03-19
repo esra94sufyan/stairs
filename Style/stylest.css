@@ -1,0 +1,22 @@
+body{margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+border-width: 0;}
+
+#container{background-color: white;
+  
+}
+
+#container>div{padding: 10px;
+background-color: black;
+height: 50px;
+margin-top: 100px;
+width: 100px;}
+
+.num4{margin-left: 100px;}
+
+.num3{margin-left: 200px;}
+
+.num2{margin-left: 300px;}
+
+.num1{margin-left: 400px;}
